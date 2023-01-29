@@ -1,1 +1,1 @@
-#Just another website
+#Responsive website
